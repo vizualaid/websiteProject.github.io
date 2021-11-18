@@ -1,0 +1,132 @@
+<!DOCTYPE html>
+<html>
+  <head>
+          
+
+        <link rel="stylesheet" href="1.css">  
+    <link rel="icon" href="images/lo.png">
+    <link rel='stylesheet' type='text/css' media='screen' href='header.css'>
+       
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1"> 
+      <style>
+      .container {
+  display: flex;
+  width: 100%;
+  padding: 4% 2%;
+  box-sizing: border-box;
+  height: 100vh;
+}
+
+.box {
+  flex: 1;
+  overflow: hidden;
+  transition: .5s;
+  margin: 0 2%;
+  box-shadow: 0 20px 30px rgba(0,0,0,.1);
+  line-height: 0;
+}
+
+.box > img {
+  width: 200%;
+  height: calc(100% - 10vh);
+  object-fit: cover; 
+  transition: .5s;
+}
+
+.box > span {
+  font-size: 3.8vh;
+  display: block;
+  text-align: center;
+  height: 10vh;
+  line-height: 2.6;
+}
+
+.box:hover { flex: 1 1 50%; }
+.box:hover > img {
+  width: 100%;
+  height: 100%;
+}
+ 
+      
+      </style>
+    <title>Gallery</title>
+  </head>
+  <body> 
+
+    <header class="header">
+      <nav class="nav">
+          <a class="logo">
+              <img class="logo-img" src="images/logo.png" >
+          </a>
+          <div class="ul-container">
+              <ul class="ul">
+                 
+   <li class="nav-link"><a href="index.html">Home</a></li>
+<li class="nav-link"><a href="about.html"   >About</a></li>
+<li class="nav-link"><a href="training.html">Training</a></li>
+    <li class="nav-link"><a href="timetable.html">Timetable</a></li>
+   <li class="nav-link"><a href="gallery.html"class="active">Gallery</a></li>
+     <li class="nav-link"><a href="nutrition.html">Nutrition</a></li>
+ <li class="nav-link"><a href="faq.html">FAQ</a></li>
+
+              </ul>
+          </div>
+          
+          <div class="icon-container">
+            <a class="icon " href="">
+                <img class="icon-img" src="assets/fb-icon.png">
+            </a>
+            <a class="icon" href="">
+                <img class="icon-img" src="assets/insta-icon.png">
+            </a>
+            <a class="icon" href="">
+                <img class="icon-img" src="assets/twitter-icon.png">
+            </a>
+        </div>
+         
+      </nav>
+  </header>
+<div class="k1" style="align-self: center"> 
+  
+      </div>
+    
+<div class="about-section">
+   
+    <h1 style="text-align: center">Gym Gallery</h1></div>
+     <div class="k1" style="align-self: center"> 
+   
+    </div>
+
+        <br>
+    <div class="container">
+        
+        <div class="box">
+            <img src="images/gym1.jpg">
+            <span>Cross-Fit</span>
+        </div> 
+        
+        <div class="box">
+            <img src="images/gym2.jpg">
+            <span>Yoga</span>
+        </div> 
+        
+        <div class="box">
+            <img src="images/gym3.jpg">
+            <span>Weight Training</span>
+        </div>
+        <div class="box">
+            <img src="images/gym4.jpg">
+            <span>Treadmills</span>
+        </div>
+      </div>
+      
+<div class="footer">
+
+      <h1>FITNESS</h1>
+            
+   
+    <img src="images/lo.png" alt="team" style="width:05%">  
+    </div>           
+    </body>
+</html>
