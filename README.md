@@ -5,7 +5,7 @@ live link: https://vizualaid.github.io/websiteProject.github.io/training.html
 
 Most of the images are not deployed so the web site may look more useless then it actually was  +(; _ ;)+
 
-PDF of Project Report https://github.com/vizualaid/websiteProject.github.io/blob/main/1.%20read%20me%20first.pdf
+SS of Project
 
 ![image](https://user-images.githubusercontent.com/74894810/208315908-7b822a0a-f34f-4410-b5c1-b49a26fb7910.png)
 ![image](https://user-images.githubusercontent.com/74894810/208315951-1f0d3b6a-d278-45fb-9caa-d9cdb14cf1c5.png)
