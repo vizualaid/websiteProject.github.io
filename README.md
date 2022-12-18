@@ -4,3 +4,4 @@ The project is based on “fitness club” here we can manage  our club activiti
 live link: https://vizualaid.github.io/websiteProject.github.io/training.html
 
 Most of the images are not deployed so the web site may look more useless then it actually was  +(; _ ;)+
+PDF of Project Report
